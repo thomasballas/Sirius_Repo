@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sirius</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="RegAccount">Register Account</string>
+    <string name="NewMessage">New Message</string>
+    <string name="NewMessageOrText">Please input your message below or select a text file:</string>
+    <string name="Send">Send</string>
+    <string name="Clear">Clear</string>
+    <string name="AttachPhoto">Attach Photo</string>
+    <string name="AttachText">Attach Text</string>
+    <string name="TypeYourTextHere">Type your text here:</string>
+    <string name="AccountType">Account Type:</string>
+    <string name="Username">Username: </string>
+    <string name="Password">Password:</string>
+    <string name="Submit">Submit</string>
+    <string name="AccountRegistration">Account Registration</string>
+    <string name="WorkInProgress">WORK IN PROGRESS</string>
+    <string name="Loading">Loading</string>
+
+</resources>
